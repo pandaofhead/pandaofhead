@@ -1,8 +1,9 @@
-![My Image](PandaOfHead.gif)
+<img align="center" alt="pandofhead" width="1080" src="PandaOfHead.gif">  
+
 <h1 align="center">Hi 👋, I'm PandaOfHead</h1>
 <h3 align="center">A Master Student at Cornell Tech | Software Developer</h3>
 
-<img align="right" alt="Coding" width="400" height="500" src="loveCoding.gif">
+<img align="right" alt="Coding" width="250" height="250" src="Coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pandaofhead&label=Profile%20views&color=0e75b6&style=flat" alt="pandaofhead" /> </p>
 
