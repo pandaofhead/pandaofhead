@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm PandaOfHead</h1>
 <h3 align="center">A Master Student at Cornell Tech | Software Developer</h3>
 
-<img align="right" alt="Coding" width="250" height="250" src="Coding.gif">
+<img align="right" alt="Coding" width="300" height="300" src="Coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pandaofhead&label=Profile%20views&color=0e75b6&style=flat" alt="pandaofhead" /> </p>
 
