@@ -1,5 +1,4 @@
-<img align="center" alt="pandofhead" width="1080" src="PandaOfHead.gif">  
-
+<img align="center" alt="pandofhead" width="1080" src="welcome.gif">  
 <h1 align="center">Hi 👋, I'm PandaOfHead</h1>
 <h3 align="center">A Master Student at Cornell Tech | Software Developer</h3>
 
@@ -13,7 +12,7 @@
 
 - 💬 Ask me about: **Web Developemnt, Full-Stack Development**
 
--  Know about my experiences: [portfolio-hongjins-projects-796a528b.vercel.app/](portfolio-hongjins-projects-796a528b.vercel.app/)
+- ✍️ See my experiences: [Hongjin's Portfolio](https://portfolio-hongjins-projects-796a528b.vercel.app/)
 
 - ⚡ Fun fact: **Cat Lover**
 
@@ -26,4 +25,11 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pandaofhead&show_icons=true&locale=en&layout=compact" alt="pandaofhead" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pandaofhead&show_icons=true&locale=en" alt="pandaofhead" /></p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pandaofhead&" alt="pandaofhead" /></p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pandaofhead" alt="pandaofhead" /></a> </p>
+
+
+<img align="center" alt="pandofhead" width="1080" src="PandaOfHead.gif">  
