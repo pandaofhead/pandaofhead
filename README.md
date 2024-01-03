@@ -1,20 +1,20 @@
 <img align="center" alt="pandofhead" width="1080" src="welcome.gif">  
 <h1 align="center">Hi 👋, I'm PandaOfHead</h1>
-<h3 align="center">A Master Student at Cornell Tech | Software Developer</h3>
+<h3 align="center">Master Student at Cornell Tech | Full Stack Developer</h3>
 
 <img align="right" alt="Coding" width="300" height="300" src="Coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pandaofhead&label=Profile%20views&color=0e75b6&style=flat" alt="pandaofhead" /> </p>
 
-- 🔭 I’m currently working on: **JobSearch Website**
+- 🔭 I’m currently working on: **Blog Website**
 
 - 🌱 I’m currently learning: **MERN, DevOps**
 
 - 💬 Ask me about: **Web Developemnt, Full-Stack Development**
 
-- ✍️ See my experiences: [Hongjin's Portfolio](https://portfolio-hongjins-projects-796a528b.vercel.app/)
+- 👣 See my experiences: [Hongjin's Portfolio](https://portfolio-hongjins-projects-796a528b.vercel.app/)
 
-- ⚡ Fun fact: **Cat Lover**
+- ⚡ Fun fact: **Non-Binary, LEGO MOCer, Cat Lover, Founder of Undergard Stray Cats Club**
 
 <p align="left">
 </p>
