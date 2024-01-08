@@ -12,8 +12,6 @@
 
 - 💬 Ask me about: **Web Developemnt, Full-Stack Development**
 
-- 👣 See my experiences: [Hongjin's Portfolio](https://portfolio-hongjins-projects-796a528b.vercel.app/)
-
 - ⚡ Fun fact: **Non-Binary, LEGO MOCer, Cat Lover, Founder of Undergard Stray Cats Club**
 
 <p align="left">
