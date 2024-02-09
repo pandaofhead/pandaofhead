@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on: **Java SpringBoot Project**
 
-- 🌱 I’m currently learning: **Java OOP, Network**
+- 🌱 I’m currently learning: **Java OOP, Networks**
 
 - 💬 Ask me about: **Web Developemnt, Full-Stack Development**
 
