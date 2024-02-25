@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pandaofhead&label=Profile%20views&color=0e75b6&style=flat" alt="pandaofhead" /> </p>
 
-- 🔭 I’m currently working on: **Java SpringBoot Project**
+- 🔭 I’m currently working on: **Golang Project**
 
-- 🌱 I’m currently learning: **Java OOP, Networks**
+- 🌱 I’m currently learning: **Golang, Computer Network and Operating System**
 
 - 💬 Ask me about: **Web Developemnt, Full-Stack Development**
 
-- ⚡ Fun fact: **Hiking Beginner, LEGO MOCer, Cat Lover, Founder of College Stray Cat Club**
+- ⚡ Fun fact: **Hiking Beginner, LEGO MOCer, Cat Lover**
 
 <p align="left">
 </p>
