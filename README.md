@@ -6,9 +6,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pandaofhead&label=Profile%20views&color=0e75b6&style=flat" alt="pandaofhead" /> </p>
 
-- 🔭 I’m currently working on: **Golang Project**
+- 😎 Major Tech Stacks: **Go, ReactJS, Node/ExpressJS, MongoDB, PostgreSQL, MySQL**
+- 🔭 I’m currently working on: **Go Projects**
 
-- 🌱 I’m currently learning: **Golang, Computer Network and Operating System**
+- 🌱 I’m currently learning: **Go, Computer Networks and Operating System**
 
 - 💬 Ask me about: **Web Developemnt, Full-Stack Development**
 
@@ -29,5 +30,4 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pandaofhead" alt="pandaofhead" /></a> </p>
 
-
-<img align="center" alt="pandofhead" width="1080" src="PandaOfHead.gif">  
+<img align="center" alt="pandofhead" width="1080" src="welcome.gif">  
