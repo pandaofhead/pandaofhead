@@ -1,5 +1,5 @@
-<img align="center" alt="pandofhead" width="1080" src="welcome.gif">  
-<h1 align="center">Hi 👋, I'm PandaOfHead</h1>
+<img align="center" alt="pandofhead" width="1080" src="https://pixel-profile.vercel.app/api/github-stats?username=pandaofhead&screen_effect=false&background=linear-gradient(to%20bottom%2C%20%23CD001A%200%25%2C%20%23CD001A%2014.72%25%2C%20%23F06400%2014.72%25%2C%20%23F06400%2028.56%25%2C%20%23F2CD00%2028.56%25%2C%20%23F2CD00%2042.84%25%2C%20%2379c300%2042.84%25%2C%20%2379c300%2057.12%25%2C%20%231961ae%2057.12%25%2C%20%231961ae%2071.4%25%2C%20%2331137c%2071.4%25%2C%20%2331137c%2085.24%25%2C%20%2361007d%2085.24%25%2C%20%2361007d%20100%25)">  
+<h1 align="center">Hi 👋, I'm Hongjin Quan (pandaofhead)</h1>
 <h3 align="center">Master Student at Cornell Tech | Full Stack Developer</h3>
 
 <img align="right" alt="Coding" width="300" height="300" src="Coding.gif">
