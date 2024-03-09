@@ -30,4 +30,4 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pandaofhead" alt="pandaofhead" /></a> </p>
 
-<img align="center" alt="pandofhead" width="1080" src="welcome.gif">  
+
