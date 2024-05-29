@@ -4,10 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pandaofhead&label=Profile%20views&color=0e75b6&style=flat" alt="pandaofhead" /> </p>
 
-- 😎 Major Tech Stacks: **ReactJS, Node/ExpressJS, MongoDB, PostgreSQL, MySQL, Go, Python**
-- 🔭 I’m currently working on: **RN**
+- 😎 Major Tech Stacks: **ReactJS, Next.js, Firebase, Node/ExpressJS, MongoDB, PostgreSQL, Go, Python**
+- 🔭 I’m currently working on: **React Native**
 
-- 🌱 I’m currently learning: **Computer Networks, Operating System**
+- 🌱 I’m currently learning: **LLM, RAG**
 
 - 💬 Ask me about: **Web Developemnt, Full-Stack Development**
 
@@ -19,10 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pandaofhead&show_icons=true&locale=en&layout=compact" alt="pandaofhead" /></p>
 
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pandaofhead&" alt="pandaofhead" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pandaofhead" alt="pandaofhead" /></a> </p>
-
-
