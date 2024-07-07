@@ -1,15 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm Hongjin Quan (pandaofhead)</h1>
-<h3 align="center">Master Student at Cornell Tech | Full Stack Developer</h3>
+<h3 align="center">Master Student at Cornell Tech | Application Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pandaofhead&label=Profile%20views&color=0e75b6&style=flat" alt="pandaofhead" /> </p>
 
-- 😎 Major Tech Stacks: **ReactJS, Next.js, Firebase, Node/ExpressJS, MongoDB, PostgreSQL, Go, Python**
-- 🔭 I’m currently working on: **React Native**
+- 😎 Major Tech Stacks: **ReactJs, React Native, NextJs, Firebase, Node/ExpressJS, MongoDB, PostgreSQL, Go, Python**
+- 🔭 I’m currently working on: **DevMockupAI**
 
-- 🌱 I’m currently learning: **LLM, RAG**
+- 🌱 I’m currently learning: **AI, LLM, RAG**
 
-- 💬 Ask me about: **Web Developemnt, Full-Stack Development**
+- 💬 Ask me about: **Web/Mobile Development, Full-Stack Development**
 
 <p align="left">
 </p>
