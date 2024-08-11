@@ -4,9 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pandaofhead&label=Profile%20views&color=0e75b6&style=flat" alt="pandaofhead" /> </p>
 
-- 😎 Major Tech Stacks: **ReactJs, React Native, NextJs, Firebase, Node/ExpressJS, MongoDB, PostgreSQL, Go, Python**
-- 🔭 I’m currently working on: **DevMockupAI**
-- 💬 Ask me about: **Web/Mobile Development, Full-Stack Development**
+- Major Tech Stacks: **ReactJs, React Native, NextJs, Firebase, Node/ExpressJS, MongoDB, PostgreSQL, Go, Python**
+- I’m currently working on: **DevMockupAI**
 
 <p align="left">
 </p>
